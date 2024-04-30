@@ -1,0 +1,106 @@
+.coluna{
+    display: flex;
+    width: 98%;
+    height: 700px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    left: 1%;
+    right: 60px;
+    color: rgb(0, 0, 0);
+    /* border: solid black 2px; */
+}
+
+.links{
+    display: flex;
+    position: relative;
+    /* border: solid 2px black; */
+    width: 50%;
+    text-align: center;
+}
+.logo{   
+    width: 320px;
+    height: 320px;
+    position: relative;
+    bottom: 70px;
+    left: 150px;
+
+
+}
+.foto{
+    width: 890px;
+    height: 600px;
+    margin-left: 15px;
+    border-radius: 15%;
+    margin-top: 30px;  
+    /* border: solid 1px rgb(207, 112, 4); */
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.735);
+    
+}
+.ilustraçao{
+    display: flex;
+    margin-left: 200px;
+}
+
+.titulo{
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 50px;
+    font-size: 65px;
+    color: rgb(207, 112, 4);
+    text-shadow: 4px 3px black;
+}
+.coluna2{
+    border-radius: 15px;
+    border: solid 5px rgb(207, 112, 4);
+    margin-left: 75px;
+    width: 600px;
+    height: 300px;
+    margin-top: 160px;
+}
+
+.inicio{
+    text-align: center;
+    font-size: 30px;
+}
+
+.info{
+    text-align: center;
+    border: solid 5px black;
+    border-radius: 15px;
+    width: 480px;
+    height: 500px;
+    margin-top: 90px;
+    margin-left: 150px;
+}
+.info:hover{
+    border: solid 5px rgb(207, 112, 4);
+    box-shadow: 10px 10px rgba(207, 112, 4, 0.697);
+    background-color: black;
+    color:white;
+}
+.info2{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 20px;
+}
+.info3{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.suport{
+    /* border: solid 5px rgb(207, 112, 4); */
+    text-align: center;
+    width: 50%;
+    display: flexbox;
+    font-size: 30px;
+}
+.email{
+    margin-top: 20px;
+}
+
+.email3{
+    margin-right: 195px;
+    font-size: 30px;
+}
